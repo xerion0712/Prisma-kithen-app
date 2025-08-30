@@ -14,7 +14,7 @@ A monorepo containing:
 ```graphql
 .
 ├── apps
-│   ├── expo    # Expo/RN application
+│   ├── expo    # Expo/RN applicatio
 │   └── next    # Server-side rendered Next.js application
 ├── packages
 │   └── api     # API 
